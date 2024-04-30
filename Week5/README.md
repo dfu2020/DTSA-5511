@@ -10,9 +10,6 @@ In this GIT repository, you will find the following items:
   
 2. [week5_submission_Kaggle_score.png](week5_submission_Kaggle_score.png) is the screenshot of the Kaggle public and private score.
 
-3. [image.zip](image.zip) is the zip archive of the submission (containing 7038 Monet style photos submitted to the Kaggle Competition).
-
-
 ## Project Summary
 In this week's project, we are participating in Kaggle's competition. We will build a General Adversarial Network Model (GAN) [https://en.wikipedia.org/wiki/Generative_adversarial_network]. We will be using this GAN model to transform photographs to an image that has the painting styles of Monet. 
 
