@@ -5,10 +5,11 @@ This is the public repository for the week 3 Mini Kaggle Competition Project.
 
 ## What's included
 In this GIT repository, you will find the following items:
-1. [weatherAUS.csv](weatherAUS.csv) is the csv file that is downloaded from Kaggle. 
-Retrieved from [https://www.kaggle.com/datasets/ahmettalhabektas/new-york-cars-big-data-2023](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package), Apr. 30, 2024.
 
-2. [DTSA_5511_Final_Project_DF.ipynb](DTSA_5511_Final_Project_DF.ipynb) is the jupyter notebook of this project.
+1. [DTSA_5511_week3.ipynb](DTSA_5511_week3.ipynb) is the jupyter notebook of this project.
+2. [CNN_prediction_submission.csv](CNN_prediction_submission.csv) is the output prediction submission .csv consisting of image 'id' and 'label' that has been submitted to the Kaggle Competition.
+3. [week3_submission_Kaggle_score.png](week3_submission_Kaggle_score.png) is the screenshot of the Kaggle public and private score.
+
 
 ## Project Summary
 In this project, the aim is to build a Convolution Neural Network Algorithm to identify the metastatic cancer in small image subsets from larger digital pathological scans. 
